@@ -6,7 +6,7 @@
 
 #Check periodically for mobs to make into jockeys
 scoreboard players add Check Tick 1
-execute if score Check Tick matches 100 run function more_jockeys:check/check
+execute if score Check Tick matches 1500 run function more_jockeys:check/check
 
 
 
