@@ -12,12 +12,6 @@ Note: installation will fail if you are not in Creative mode.
 The datapack will automatically install all the necessary scoreboards, functions and entities that make the datapack run.
 
 
-## **==WARNING!!!==**
-
-The datapack will forceload the chunk you are standing in to keep the entities used for RNG loaded at all times. Choose wisely where
-you run the installation functions!
-
-
 ## Uninstalling The Datapack
 
 - Run `/function more_jockeys:setup/uninstall`
@@ -54,5 +48,5 @@ Other features of the datapack include:
 - Named mobs cannot be converted.
 - Mobs will only be checked to convert exactly once.
 - Administrative commands for debugging and configuration.
-    -/function more_jockeys:admin/clock_cycles to decide how often mobs should be checked to be converted.
-    -/function more_jockeys:admin/convert to convert the nearest mob to a jockey.
+    - `/function more_jockeys:admin/clock_cycles` to decide how often mobs should be checked to be converted.
+    - `/function more_jockeys:admin/convert` to convert the nearest mob to a jockey.
