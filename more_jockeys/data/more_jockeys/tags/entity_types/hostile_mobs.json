@@ -13,6 +13,9 @@
 		"minecraft:witch",
 		"minecraft:evoker",
 		"minecraft:vindicator",
-		"minecraft:drowned"
+		"minecraft:drowned",
+		"minecraft:piglin",
+		"minecraft:hoglin",
+		"minecraft:phantom"
 	]
 }
