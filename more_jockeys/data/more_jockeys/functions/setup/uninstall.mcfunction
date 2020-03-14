@@ -4,16 +4,13 @@ tellraw @s {"text":"Uninstalling More Jockeys Datapack... =c","color":"aqua","bo
 scoreboard objectives remove selected
 scoreboard objectives remove Randomization
 scoreboard objectives remove Tick
-
+scoreboard objectives remove MJ_Installed 
 
 tag @e remove checked
 tag @e remove jockey
 
-kill @e[tag=Randomization]
 
-execute as @s at @s run forceload remove ~ ~
-
-datapack disable "file/more_jockeys"
+datapack disable "file/more_jockeysv1.1"
 
 
 
