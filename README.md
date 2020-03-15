@@ -7,7 +7,7 @@ This datapack adds more jockey mobs to Minecraft.
 - Run /reload (or reload your world/server)
 
 
-The datapack will automatically install all the necessary scoreboards, functions and entities that make the datapack run.
+The datapack will automatically install all the necessary scoreboards and functions that make the datapack run.
 
 
 ## Uninstalling The Datapack
