@@ -6,4 +6,4 @@ scoreboard objectives add MJ_Installed dummy
 scoreboard players set Installed MJ_Installed 1
 
 
-tellraw @a[gamemode=creative] {"text":"More Jockeys Datapack Installed!","color":"gold","bold":"true","hoverEvent":{"action":"show_text","value":"§aDatapack created by §3JohnStar128"}}
+tellraw @s {"text":"More Jockeys Datapack Installed!","color":"gold","bold":"true","hoverEvent":{"action":"show_text","value":"§aDatapack created by §3JohnStar128"}}
