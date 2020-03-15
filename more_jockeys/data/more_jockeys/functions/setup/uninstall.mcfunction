@@ -1,7 +1,5 @@
 tellraw @s {"text":"Uninstalling More Jockeys Datapack... =c","color":"aqua","bold":"true"}
 
-
-scoreboard objectives remove selected
 scoreboard objectives remove Randomization
 scoreboard objectives remove Tick
 scoreboard objectives remove MJ_Installed 
@@ -10,7 +8,7 @@ tag @e remove checked
 tag @e remove jockey
 
 
-datapack disable "file/more_jockeysv1.1"
+datapack disable "file/more_jockeys"
 
 
 
