@@ -4,10 +4,8 @@ This datapack adds more jockey mobs to Minecraft.
 ## Installing The Datapack
 
 - Drag the datapack into `world/datapacks` folder
-- Set yourself to Creative mode
 - Run /reload (or reload your world/server)
 
-Note: installation will fail if you are not in Creative mode.
 
 The datapack will automatically install all the necessary scoreboards, functions and entities that make the datapack run.
 
