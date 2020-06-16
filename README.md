@@ -38,7 +38,9 @@ The datapack currently supports 12 mobs to be converted to a jockey
 - Vindicator -> Cow
 - Drowned -> Dolphin **[Deprecated]**
 - Hoglin -> Piglin
+- Piglin -> Hoglin
 - Phantom -> Bee
+- Strider -> Striders
 
 Other features of the datapack include:
 
