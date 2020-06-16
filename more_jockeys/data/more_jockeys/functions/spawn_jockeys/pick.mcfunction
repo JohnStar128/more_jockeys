@@ -12,7 +12,9 @@ execute as @e[type=witch,tag=checked,tag=!fullJockey,limit=1] at @s unless entit
 execute as @e[type=evoker,tag=checked,tag=!fullJockey,limit=1] at @s unless entity @a[distance=..24] run function more_jockeys:spawn_jockeys/evoker
 execute as @e[type=vindicator,tag=checked,tag=!fullJockey,limit=1] at @s unless entity @a[distance=..24] run function more_jockeys:spawn_jockeys/vindicator
 execute as @e[type=hoglin,tag=checked,tag=!fullJockey,limit=1] at @s unless entity @a[distance=..24] run function more_jockeys:spawn_jockeys/hoglin
+execute as @e[type=piglin,tag=checked,tag=!fullJockey,limit=1] at @s unless entity @a[distance=..24] run function more_jockeys:spawn_jockeys/piglin
 execute as @e[type=phantom,tag=checked,tag=!fullJockey,limit=1] at @s unless entity @a[distance=..24] run function more_jockeys:spawn_jockeys/phantom
+execute as @e[type=strider,tag=checked,tag=!fullJockey,limit=1] at @s unless entity @a[distance=..24] run function more_jockeys:spawn_jockeys/strider
 #execute as @e[type=drowned,tag=checked,tag=!fullJockey,limit=1] at @s unless entity @a[distance=..24] run function more_jockeys:spawn_jockeys/drowned
 
 #Debug command -- say done

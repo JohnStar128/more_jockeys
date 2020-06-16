@@ -16,6 +16,7 @@
 		"minecraft:drowned",
 		"minecraft:piglin",
 		"minecraft:hoglin",
-		"minecraft:phantom"
+		"minecraft:phantom",
+		"minecraft:strider"
 	]
 }
