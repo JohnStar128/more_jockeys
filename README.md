@@ -50,4 +50,3 @@ Other features of the datapack include:
 - Administrative commands for debugging and configuration.
     - `/function more_jockeys:admin/clock_cycles` to decide how often mobs should be checked to be converted.
     - `/function more_jockeys:admin/convert` to convert the nearest mob to a jockey.
-=======
