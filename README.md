@@ -7,7 +7,7 @@ This datapack adds more jockey mobs to Minecraft.
 - Run /reload (or reload your world/server)
 
 
-The datapack will automatically install all the necessary scoreboards and functions that make the datapack run.
+The datapack will automatically install all the necessary scoreboards, functions and entities that make the datapack run.
 
 
 ## Uninstalling The Datapack
@@ -38,7 +38,9 @@ The datapack currently supports 12 mobs to be converted to a jockey
 - Vindicator -> Cow
 - Drowned -> Dolphin **[Deprecated]**
 - Hoglin -> Piglin
+- Piglin -> Hoglin
 - Phantom -> Bee
+- Strider -> Striders
 
 Other features of the datapack include:
 
@@ -48,3 +50,4 @@ Other features of the datapack include:
 - Administrative commands for debugging and configuration.
     - `/function more_jockeys:admin/clock_cycles` to decide how often mobs should be checked to be converted.
     - `/function more_jockeys:admin/convert` to convert the nearest mob to a jockey.
+=======

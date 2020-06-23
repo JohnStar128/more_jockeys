@@ -11,8 +11,10 @@ execute as @e[type=witch,tag=jockey,tag=!fullJockey] at @s run function more_joc
 execute as @e[type=evoker,tag=jockey,tag=!fullJockey] at @s run function more_jockeys:spawn_jockeys/evoker
 execute as @e[type=vindicator,tag=jockey,tag=!fullJockey] at @s run function more_jockeys:spawn_jockeys/vindicator
 execute as @e[type=drowned,tag=jockey,tag=!fullJockey] at @s run function more_jockeys:spawn_jockeys/drowned
+execute as @e[type=piglin,tag=jockey,tag=!fullJockey] at @s run function more_jockeys:spawn_jockeys/piglin
 execute as @e[type=hoglin,tag=jockey,tag=!fullJockey] at @s run function more_jockeys:spawn_jockeys/hoglin
 execute as @e[type=phantom,tag=jockey,tag=!fullJockey] at @s run function more_jockeys:spawn_jockeys/phantom
+execute as @e[type=strider,tag=jockey,tag=!fullJockey] at @s run function more_jockeys:spawn_jockeys/strider
 
 
 execute as @e[tag=jockey] at @s run tag @s remove jockey
